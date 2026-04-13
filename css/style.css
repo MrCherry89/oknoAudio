@@ -86,6 +86,12 @@ a:focus {
   align-items: center;
   padding: 20px 0;
 }
+.main .links p {
+  margin: 10px auto 20px;
+  font-size: 20px;
+  font-weight: 500;
+  color: #f00;
+}
 .main .links a {
   font-size: 18px;
   margin-bottom: 10px;
